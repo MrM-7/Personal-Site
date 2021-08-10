@@ -2,7 +2,8 @@
 body{
     margin: 0;
     text-align: center;
-    font-family: 'Merriweather', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
     color: #40514E;
 }
 h1{
@@ -17,13 +18,13 @@ h1{
 
 h2{
     font-size: 2rem;
-    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'Montserrat', sans-serif; */
     color: #66BFBF;
     font-weight:600;
 }
 
 h3{
-    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'Montserrat', sans-serif; */
     color: #11999E;
 }
 
@@ -111,7 +112,7 @@ a{
 
 .footer-link{
     color: #0b7f83;
-    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'Montserrat', sans-serif; */
     text-decoration: none;
     margin: 10px 20px;
     font-weight: bold;
@@ -140,7 +141,7 @@ a{
     display: inline-block;
     cursor: pointer;
     text-align: center;
-    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'Montserrat', sans-serif; */
  }
  
  .btn:hover {
